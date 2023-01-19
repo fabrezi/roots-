@@ -7,9 +7,17 @@ Software world is in a constant state of change. Every year, there are new progr
 
 The old stack is a term I use to define the technology that gave birth or rise to many of the modern stacks.
 
+Further, the roots project is based on software that is free and old. I believe there is much worth is these programs and the task is to find how to apply old tools to new problems.
+
 The old stack is defined as follows:
 
 - Assembly
 - C
 - HTML
+- awk
 <tbc>
+
+
+### References
+
+- `why use free software`: https://blog.deckc.hair/2023-01-18-stop-building-on-corporate-controlled-languages.html
